@@ -107,7 +107,7 @@ ALLOW_MISSING_DEPENDENCIES=true
 
 #SHRP_Variables
 SHRP_PATH := device/xiaomi/kenzo
-SHRP_MAINTAINER := kaushalsitapara
+SHRP_MAINTAINER := xoo2001
 SHRP_DEVICE_CODE := kenzo
 SHRP_EDL_MODE := 1
 SHRP_EXTERNAL := /external_sd
